@@ -1,0 +1,30 @@
+_repo: Rautatie_10481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aho, Juhani
+    aliases:
+    - Aho, Johani
+    - Brofeldt, Juhani
+    birthdate: 1861
+    deathdate: 1921
+    gutenberg_agent_id: '1773'
+    url: http://www.gutenberg.org/2009/agents/1773
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Juhani_Aho
+    - http://en.wikipedia.org/wiki/Juhani_Aho
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10481'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- GITenberg
+title: Rautatie
+url: http://www.gutenberg.org/ebooks/10481
